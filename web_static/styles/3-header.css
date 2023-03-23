@@ -1,0 +1,23 @@
+header {
+  height: 70px;
+  width: 100%;
+  border-bottom: 1px solid #CCCCCC;
+  background-color: #2d2d2d;
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.logo {
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo img {
+  height: 50px;
+  width: 50px;
+}
+
